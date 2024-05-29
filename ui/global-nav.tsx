@@ -22,7 +22,7 @@ export function GlobalNav() {
           onClick={close}
         >
           <div className="h-7 w-7 rounded-full">
-            <NextLogoDark />
+            <NextLogoDark /> by <i>Sanjeev Shetty</i>
           </div>
 
           <h3 className="font-semibold tracking-wide text-gray-400 group-hover:text-gray-50">
